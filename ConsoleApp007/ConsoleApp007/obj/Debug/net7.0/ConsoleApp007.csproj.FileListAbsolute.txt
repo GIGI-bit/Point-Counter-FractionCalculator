@@ -1,0 +1,14 @@
+C:\Users\Sevgi\source\repos\ConsoleApp007\ConsoleApp007\obj\Debug\net7.0\ConsoleApp007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevgi\source\repos\ConsoleApp007\ConsoleApp007\obj\Debug\net7.0\ConsoleApp007.AssemblyInfoInputs.cache
+C:\Users\Sevgi\source\repos\ConsoleApp007\ConsoleApp007\obj\Debug\net7.0\ConsoleApp007.AssemblyInfo.cs
+C:\Users\Sevgi\source\repos\ConsoleApp007\ConsoleApp007\obj\Debug\net7.0\ConsoleApp007.csproj.CoreCompileInputs.cache
+C:\Users\Sevgi\source\repos\ConsoleApp007\ConsoleApp007\bin\Debug\net7.0\ConsoleApp007.exe
+C:\Users\Sevgi\source\repos\ConsoleApp007\ConsoleApp007\bin\Debug\net7.0\ConsoleApp007.deps.json
+C:\Users\Sevgi\source\repos\ConsoleApp007\ConsoleApp007\bin\Debug\net7.0\ConsoleApp007.runtimeconfig.json
+C:\Users\Sevgi\source\repos\ConsoleApp007\ConsoleApp007\bin\Debug\net7.0\ConsoleApp007.dll
+C:\Users\Sevgi\source\repos\ConsoleApp007\ConsoleApp007\bin\Debug\net7.0\ConsoleApp007.pdb
+C:\Users\Sevgi\source\repos\ConsoleApp007\ConsoleApp007\obj\Debug\net7.0\ConsoleApp007.dll
+C:\Users\Sevgi\source\repos\ConsoleApp007\ConsoleApp007\obj\Debug\net7.0\refint\ConsoleApp007.dll
+C:\Users\Sevgi\source\repos\ConsoleApp007\ConsoleApp007\obj\Debug\net7.0\ConsoleApp007.pdb
+C:\Users\Sevgi\source\repos\ConsoleApp007\ConsoleApp007\obj\Debug\net7.0\ConsoleApp007.genruntimeconfig.cache
+C:\Users\Sevgi\source\repos\ConsoleApp007\ConsoleApp007\obj\Debug\net7.0\ref\ConsoleApp007.dll
